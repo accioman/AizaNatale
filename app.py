@@ -212,7 +212,7 @@ fig.add_trace(
         y=[0],
         z=[puntale_z + 0.12],
         mode="markers",
-        marker=dict(size=14, color="gold", symbol="asterisk"),
+        marker=dict(size=14, color="gold"),
         hoverinfo="skip",
     )
 )
